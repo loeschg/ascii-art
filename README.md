@@ -1,9 +1,8 @@
-ascii-art
-=========
+# ascii-art
 
-Spice up your Terminal/SSH greeting/MOTD (message of the day) with some ascii art!
+## Spice up your Terminal/SSH greeting/MOTD (message of the day) with some ascii art!
 
-## Drop the .sh script into your `/etc/update-motd.d/` folder with executable permissions. Make sure you rename with a number prefix! (i.e.  `01-ascii-art`)
+**Drop the .sh script into your `/etc/update-motd.d/` folder with executable permissions. Make sure you rename with a number prefix! (i.e.  `01-ascii-art`)**
 
                                /~\   Hey Greg!
                               (O O) _/                 
@@ -23,4 +22,5 @@ Spice up your Terminal/SSH greeting/MOTD (message of the day) with some ascii ar
 
 
 *ASCII art credit goes to the makers of ASCII Star Wars*
-    telnet towel.blinkenlights.nl
+
+        telnet towel.blinkenlights.nl
